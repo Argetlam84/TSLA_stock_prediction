@@ -162,7 +162,7 @@ if st.session_state.selected_tab == "Models":
                 st.write(forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']])
             with col2:
                 st.write("Real Values:")
-                st.write(df[["ds","y"]]) 
+                st.write("You Can Check it TSLA Stock Price daily for real values :)")
 
             fig1 = model.plot(forecast)
             st.pyplot(fig1)
