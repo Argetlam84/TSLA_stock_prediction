@@ -1,0 +1,12 @@
+certifi
+numpy
+matplotlib
+tensorflow
+scikit-learn
+scipy
+python-dotenv
+lightGBM
+XGBoost
+statsmodels
+streamlit
+joblib
