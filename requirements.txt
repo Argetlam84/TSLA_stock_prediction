@@ -9,5 +9,4 @@ lightGBM
 XGBoost
 statsmodels
 streamlit
-joblib
 prophet
