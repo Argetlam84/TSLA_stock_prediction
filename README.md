@@ -2,7 +2,7 @@
 
 Welcome to the **Tesla Stock Price Forecasting** project! This project is all about predicting the future prices of Tesla's stock. Instead of focusing only on getting the most accurate predictions, we've compared different forecasting methods to see which ones work best for this task. 
 
-## Project Overview
+<a href="https://tslastockprediction-argetlam.streamlit.app/" target="_blank">Project Overview </a>
 
 In this project, we explored a variety of models that are commonly used in forecasting stock prices. Our main goal was to understand the strengths and weaknesses of these models, especially when used with small datasets like ours. We also tested some "mix models," which combine different approaches to try to get better results.
 
