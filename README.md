@@ -1,3 +1,6 @@
+![1686390174tesla-logo-png-black](https://github.com/user-attachments/assets/40690398-4a52-4798-9c7e-e65f783e6a9e)
+
+
 # Tesla Stock Price Forecasting
 
 Welcome to the **Tesla Stock Price Forecasting** project! This project is all about predicting the future prices of Tesla's stock. Instead of focusing only on getting the most accurate predictions, we've compared different forecasting methods to see which ones work best for this task. 
