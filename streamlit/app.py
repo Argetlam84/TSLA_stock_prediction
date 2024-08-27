@@ -31,6 +31,8 @@ tabs = st.tabs(["About", "Models"])
 if st.session_state.selected_tab == "About":
     with tabs[0]:
         st.title("About")
+        image_url ="(https://github.com/user-attachments/assets/629def5f-09b6-476b-854f-ee05365470e5)"
+        st.image(image_url, caption="GitHub Issue Görseli", use_column_width=True)
         st.warning("This project is not INVESTMENT ADVICE!!!")
         st.write("""
         This is a Streamlit application that demonstrates the use of machine learning models to forecast TSLA Stock prices. 
